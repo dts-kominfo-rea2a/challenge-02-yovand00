@@ -35,7 +35,7 @@ function lakukanLooping(arrPegawai) {
     TODO 3: Buatlah sebuah variabel bernama "jumlahWanita"
       yang berisi jumlah wanita dari masing masing pegawai
   */
-  let jumlahWanita = null;
+  let jumlahWanita = 0;
 
   /*
     TODO 4: Buatlah sebuah variabel bernama "komentar"
